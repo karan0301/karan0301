@@ -10,3 +10,7 @@ Frameworks: NIL
 
 📫 Contact:
 
+
+
+<meta name="google-site-verification" content="oMSlWQEhaGIr-ZIfwuM4TT9IUAFPiyR3J-suSLLSejk" />
+
